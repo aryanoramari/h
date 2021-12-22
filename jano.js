@@ -109,7 +109,7 @@ jano.on("ready", () => {
 });
 ///////////////////
 jano2.on("ready", () => {
-  var join = jano2.channels.get(""); /// id voice
+  var join = jano2.channels.get("832820757792817203"); /// id voice
   if (join) join.join();
 });
 ///////////////////
